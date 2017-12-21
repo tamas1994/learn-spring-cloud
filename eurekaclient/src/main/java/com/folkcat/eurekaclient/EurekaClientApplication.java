@@ -11,6 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Created by Tamas on 2017/12/21.
  */
+
+//TODO 一个疑问，此进程被杀死后EurekaServer中显示还是up状态？
 @SpringBootApplication
 @EnableEurekaClient
 @RestController
