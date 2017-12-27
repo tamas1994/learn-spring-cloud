@@ -7,6 +7,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 /**
  * Created by Tamas on 2017/12/22.
+ * 路由网关与
  */
 @EnableZuulProxy
 @EnableEurekaClient
